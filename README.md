@@ -30,11 +30,6 @@ System Administrators
 Admin Panel -> Agents -> Teams
 Level I Support
 Level II Support
-- Item 4 Allow anyone to create tickets
-Admin Panel -> Settings -> User Settings
-Registration Required: Require registration and login to create tickets
-- Item 5 Configure Agents (workers)
-Admin Panel -> Agents -> Add New
 Jane
 John
 

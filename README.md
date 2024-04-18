@@ -22,11 +22,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 Configure Roles
+Admin Panel -> Agents -> Roles
+Supreme Admin
+- Item 2 Configure Departments
+Admin Panel -> Agents -> Departments
+System Administrators
+- Item 3 Configure Teams
+Admin Panel -> Agents -> Teams
+Level I Support
+Level II Support
+- Item 4 Allow anyone to create tickets
+Admin Panel -> Settings -> User Settings
+Registration Required: Require registration and login to create tickets
+- Item 5 Configure Agents (workers)
+Admin Panel -> Agents -> Add New
+Jane
+John
 
 <h2>Configuration Steps</h2>
 
